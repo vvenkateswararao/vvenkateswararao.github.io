@@ -1,2 +1,2 @@
 # Venkateswara Rao...
-#  <a href="vvrao.me">vvrao.me</a>
+# vvrao.me
